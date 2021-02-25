@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Пробный сайт</title>
+  </head>
+  <body>
+    <header>
+      <h1>Шапка пробного сайта</h1>
+    </header>
+    <main>
+      <p>сайт</p>
+      </main>
+      <footer>
+        <nav>
+          <p>Список</p>
+          <ul>
+          <li>первый</li>
+          <li>второй</li>
+          <li>третий</li>
+          </ul>
+        </nav>
+      </footer>
+  <body>
+</html>
